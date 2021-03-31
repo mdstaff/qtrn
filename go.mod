@@ -1,4 +1,4 @@
-module github.com/piquette/qtrn
+module github.com/mdstaff/qtrn
 
 go 1.13
 
