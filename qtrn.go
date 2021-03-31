@@ -17,7 +17,7 @@ package main
 import (
 	"os"
 
-	"github.com/piquette/qtrn/cmd"
+	"github.com/mdstaff/qtrn/cmd"
 )
 
 func main() {
